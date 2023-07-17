@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Test.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.NhanVien.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Login.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.HoaDon.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.ThongKe.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.taiKhoan.resources

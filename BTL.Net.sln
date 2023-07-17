@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanLiHoaDon", "quanLiHoaDon\quanLiHoaDon.csproj", "{B35674A9-BE9F-4E1C-970A-AD1A0B88E181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanliNhanVien", "quanlinhanvien1\quanliNhanVien.csproj", "{19AA7FB0-DF03-4870-842F-30A5D9363C41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "conection", "conection", "{2B34C1A3-F4CA-44B0-8BC1-C9463B98F402}"
+	ProjectSection(SolutionItems) = preProject
+		HamChung.cs = HamChung.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanliDoanhThu", "quanliDoanhThu\quanliDoanhThu.csproj", "{2DD46B91-975F-46F7-A76B-EFE147E1E60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HopNhat", "QuanLiTaiKhoan\HopNhat.csproj", "{B53713BC-3873-4490-9ABC-70EDC235B353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaiKhoan", "TaiKhoan\TaiKhoan.csproj", "{466CB7F4-77F6-421C-A5B6-2C89F24C2CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35674A9-BE9F-4E1C-970A-AD1A0B88E181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35674A9-BE9F-4E1C-970A-AD1A0B88E181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35674A9-BE9F-4E1C-970A-AD1A0B88E181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35674A9-BE9F-4E1C-970A-AD1A0B88E181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AA7FB0-DF03-4870-842F-30A5D9363C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AA7FB0-DF03-4870-842F-30A5D9363C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AA7FB0-DF03-4870-842F-30A5D9363C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AA7FB0-DF03-4870-842F-30A5D9363C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD46B91-975F-46F7-A76B-EFE147E1E60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD46B91-975F-46F7-A76B-EFE147E1E60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD46B91-975F-46F7-A76B-EFE147E1E60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD46B91-975F-46F7-A76B-EFE147E1E60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53713BC-3873-4490-9ABC-70EDC235B353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53713BC-3873-4490-9ABC-70EDC235B353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53713BC-3873-4490-9ABC-70EDC235B353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53713BC-3873-4490-9ABC-70EDC235B353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466CB7F4-77F6-421C-A5B6-2C89F24C2CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466CB7F4-77F6-421C-A5B6-2C89F24C2CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466CB7F4-77F6-421C-A5B6-2C89F24C2CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466CB7F4-77F6-421C-A5B6-2C89F24C2CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FD0F2D-8167-471B-B192-EA2B76C3B818}
+	EndGlobalSection
+EndGlobal

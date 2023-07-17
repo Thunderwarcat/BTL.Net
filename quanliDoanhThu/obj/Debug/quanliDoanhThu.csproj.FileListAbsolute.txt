@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\bin\Debug\quanliDoanhThu.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\bin\Debug\quanliDoanhThu.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\bin\Debug\quanliDoanhThu.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.quanLiDoanhThu.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanliDoanhThu\obj\Debug\quanliDoanhThu.pdb

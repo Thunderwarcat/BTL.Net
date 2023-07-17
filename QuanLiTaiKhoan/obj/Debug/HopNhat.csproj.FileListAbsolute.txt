@@ -1,0 +1,46 @@
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.HoaDon.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Login.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.NhanVien.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.taiKhoan.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Test.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.ThongKe.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.HoaDon.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Login.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.NhanVien.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.taiKhoan.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Test.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.ThongKe.resources
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.pdb
+D:\python visual\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe.config
+D:\python visual\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.exe
+D:\python visual\BTL.net\QuanLiTaiKhoan\bin\Debug\QuanLiTaiKhoan.pdb
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.AssemblyReference.cache
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.SuggestedBindingRedirects.cache
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.HoaDon.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Login.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.NhanVien.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Properties.Resources.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.taiKhoan.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.Test.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.ThongKe.resources
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.GenerateResource.cache
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\HopNhat.csproj.CoreCompileInputs.cache
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.exe
+D:\python visual\BTL.net\QuanLiTaiKhoan\obj\Debug\QuanLiTaiKhoan.pdb

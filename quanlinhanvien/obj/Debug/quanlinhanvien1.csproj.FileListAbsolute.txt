@@ -1,0 +1,44 @@
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe.config
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.pdb
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.Form1.resources
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.Properties.Resources.resources
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.exe
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.pdb
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\bin\Debug\NhanVien.mdf
+C:\Users\PC\source\repos\quanLiHoaDon\quanlinhanvien1\bin\Debug\NhanVien_log.ldf
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\NhanVien.mdf
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\NhanVien_log.ldf
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe.config
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\quanlinhanvien1.pdb
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.AssemblyReference.cache
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.Form1.resources
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.Properties.Resources.resources
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.GenerateResource.cache
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.CoreCompileInputs.cache
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.exe
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.pdb
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\Database1.mdf
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\Database1_log.ldf
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\GC\Desktop\Bài tập lớn C#\quanLiHoaDon\quanLiHoaDon\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.CopyComplete
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\quanlinhanvien1.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\quanlinhanvien1.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.Form1.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.csproj.CopyComplete
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\obj\Debug\quanlinhanvien1.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\NhanVien.mdf
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\quanlinhanvien1\bin\Debug\NhanVien_log.ldf

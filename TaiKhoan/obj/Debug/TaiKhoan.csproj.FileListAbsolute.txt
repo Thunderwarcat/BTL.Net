@@ -1,0 +1,10 @@
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\bin\Debug\TaiKhoan.exe.config
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\bin\Debug\TaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\bin\Debug\TaiKhoan.pdb
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.Form1.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.Properties.Resources.resources
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.exe
+C:\Users\PC\Downloads\quanLiHoaDon\quanLiHoaDon1\TaiKhoan\obj\Debug\TaiKhoan.pdb
